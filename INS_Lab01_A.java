@@ -1,4 +1,3 @@
-package com.vedansh;
 import java.util.Scanner;
 public class INS_Lab01_A {
     private static final String alphabet = "abcdefghijklmnopqrstuvwxyz";
